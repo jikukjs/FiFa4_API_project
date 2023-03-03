@@ -23,8 +23,8 @@
 > 실습 파일로 얻은 코드들을 정리한 최종 프로젝트 파일
 #### 
   1. all_players_spId_position
-    > API url를 활용하기 위해 선수 spId와 포지션 묶어주는 함수
+  + API url를 활용하기 위해 선수 spId와 포지션 묶어주는 함수
   2. def rankers_used_func
-    > API를 이용해 선수와 포지션별 랭커 선수 활용 데이터를 구하는 함수
+  + API를 이용해 선수와 포지션별 랭커 선수 활용 데이터를 구하는 함수
     
   
