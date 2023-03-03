@@ -21,10 +21,16 @@
 
 ### fanal_code 파일
 > 실습 파일로 얻은 코드들을 정리한 최종 프로젝트 파일
-#### 
-  1. all_players_spId_position
+#### 함수 설명
+  1. all_players_spId_position(players)
      + API url를 활용하기 위해 선수 spId와 포지션 묶어주는 함수
-  2. def rankers_used_func
+  2. rankers_used_func(data)
      + API를 이용해 선수와 포지션별 랭커 선수 활용 데이터를 구하는 함수
-    
+  3. rankers_players_record(Id_Po)
+     + 구한 데이터를 전부 합치는 함수 
+  4. players_ability_func(spid)
+     + 선수 능력치 수치와 능력치 명을 정적 크롤을 이용해 구하는 함수
+  5. players_ability_data_func
+     + clumn 명을 영어로 바꿔주고 선수 능력치 데이터 프레임을 만드는 함수 
+  
   
